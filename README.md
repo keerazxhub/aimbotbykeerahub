@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎯 KeeraHub — Mobile Aim Assist
 
 > สคริปต์ **Aim Assist สำหรับมือถือ** ใน Roblox — เบา, ลื่น, ปรับได้จากในเกม
@@ -87,4 +88,3 @@ GUI ใช้ `ResetOnSpawn = false` → **ไม่หายตอนเกิ�
 ---
 
 <p align="center">Made with ❤️ by <b>KeeraHub</b></p>
-
